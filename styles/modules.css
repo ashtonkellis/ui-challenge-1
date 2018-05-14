@@ -1,0 +1,14 @@
+/* vertically and horizontally center text */
+header,
+aside,
+.big,
+.small,
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  outline: none;
+}
